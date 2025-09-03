@@ -1,0 +1,224 @@
+.bord{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 870px;
+    height: 90px;
+    background-color: rgba(0, 0, 0, 0.253);
+    margin-top: 20px;
+    margin-left: 20px;
+}
+h1{
+    text-align: left;
+    bottom: 30px;
+    font-size: 50px;
+    color: orange;
+    font-weight: 500;
+    font-family: sans-serif;
+    font-style: italic;
+    position: relative;
+
+}
+.men{
+    display: flex;
+    position: relative;
+    top: -100px;
+    left: 200px;
+    margin: 10px;   
+    
+}
+.men li{
+    list-style: none;
+    word-spacing: 10px;
+    width: 170px;
+
+}
+.men a{
+    font-size: 30px;
+    text-decoration: none;
+    color: orange;
+    transition: 0.3s ease-in;
+}
+.men a:hover{
+    color: white;
+}
+body{
+    width: 100%;
+    height: 109vh;
+    background-image: url(1.jpg);
+    background-size: cover;
+    background-position:center;
+    
+}
+img{
+    width: 300px;
+    border: inset 7px black;
+    border-radius: 200px;
+    margin-left: 40px;
+    margin-top: -60px;
+}
+#bb{  
+    margin-left: 20px;
+    margin-bottom: 1px;
+
+}
+#aa{
+    margin-left: 20px;
+    margin-top: 0px;
+    font-size: large;
+}
+p{
+    color: rgb(201, 132, 4);
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+#xz #qz{
+    border: 2px solid rgba(255, 166, 0, 0.705);
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: -245px;
+    right: -330px;
+    font-size: large;
+    text-align: left;
+    background: rgba(0,0,0,0.5);
+    box-shadow: 0 0 10px rgba(100, 77, 34) inset;
+
+}
+#qz li{
+    margin-left: 27px;
+    font-weight: 500;
+    font-style: italic;
+    margin-left: 10px;
+    font-size: 20px;
+    height: 30px;
+}
+#hb h3{
+    font-size: 30px;
+    font-weight: 500;
+    color: orange;
+    margin-bottom: 24px ;
+    margin-left: 15px;
+    margin-top: 10px;
+
+}
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    color: rgb(201, 132, 4);
+    
+}
+.mn{
+    border: solid 2px ;
+    border-radius: 5px;
+    background-color: rgba(10, 6, 9, 0.521);
+    width: 400px;
+    height: 626px;
+    position: relative;
+    left: 920px;
+    top: -1088px;
+
+}
+.vb{
+    margin-top: 50px;
+    margin-left: 20px;
+    border-radius: 5px;
+    border: 1.5px solid orange;
+    width: 350px;
+    height: 200px;
+    background: rgba(0,0,0,0.5);
+    box-shadow: 0 0 10px inset rgba(100, 77, 34);
+}
+.cf{
+    color: orange;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+#rc{
+    color: orange;
+    font-weight: 900;
+    position: relative;
+    font-size: 30px;
+    top: 20px;
+    left: 85px;
+    margin-bottom: -0px;
+
+}
+.qe{
+    position: relative;
+    top: -500px;
+    left: 50px;
+    border: 2px solid rgba(255, 166, 0, 0.705);
+    background: rgb(0, 0, 0 ,0.5);
+    border-radius: 10px;
+    width: 260px;
+    height: 200px;
+    margin-top: 50px;
+    box-shadow: 0 0 10px rgb(100, 77, 34) inset;
+
+    
+}
+.qe li{
+    position: relative;
+    font-style: italic;
+    font-weight: 800;
+    left: 25px;
+    top: -10px;
+    font-size: 20px;
+    list-style:circle;
+}
+.qe a{
+    text-decoration: none;
+    color: rgb(201, 132, 4);
+    letter-spacing: 1.2px;
+    font-weight: 530;
+    transition: 0.3s ease-in-out;
+}
+.qe a:hover{
+    color: white;
+}
+h2{
+    color: orange;
+    margin-left: 20px;
+    font-size: 30px;
+    margin-bottom: -10px;
+}
+.bn{
+    border: 2px solid;
+    border-radius: 5px;
+    width: 870px;
+    height: 515px;
+    background: linear-gradient(rgba(0, 0, 0, 0.466));
+    position: relative;
+    top: 18px;
+    left: 20px;
+
+}
+b{
+    position: relative;
+    left: 15px;
+    top: 8px;
+}
+.dw h3{
+    color: orange;
+    font-size: 30px;
+    text-align: center;
+    margin-right: 35px;
+    margin-top: 13px;
+}
+.abc{
+    color: rgba(255, 255, 0, 0.815);
+}
+p{
+    line-height: 28px;
+}
+#opo{
+    font-weight: 800;
+    text-align: center;
+    position: relative;
+    bottom: -320px;
+    font-size: 30px;
+}
